@@ -1,7 +1,7 @@
 # FileAPI
 FileAPI provides the following FileREST for files on your web server's machine.
 <br>
-The Web Server write in Python3 and using Flask lib (pip install Flask).
+The Web Server write in Python3 and using Flask lib (<code>pip install Flask</code>).
 <br>
 To run the the Web Server, all you need is runing the command <code>python3 fileAPI.py</code> (for debug you can look on log file <code>fileAPI.log</code>)
 <br>
